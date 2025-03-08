@@ -1,5 +1,5 @@
-import java.util.Scanner;
 
+@SuppressWarnings("unused")
 public class Tugas3 {
     public static void main(String[] args){
         int asciiX = (int) 'X';
@@ -10,6 +10,7 @@ public class Tugas3 {
         System.out.println("Nilai ASCII dari X : " + asciiX);
         System.out.println("Nilai ASCII dari y : " + asciiy);
         System.out.println("Jumlah nilai ASCII dari X dan y: " + sum);
+        
     }
     
 }

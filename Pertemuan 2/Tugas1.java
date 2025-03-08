@@ -25,5 +25,7 @@ public class Tugas1 {
         System.out.println("Result Pengurang = " + kurang);
         System.out.println("Result Pembagian = " + bagi);
 
+        angkaInput.close();
+
     }
 }

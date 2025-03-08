@@ -23,6 +23,8 @@ public class Tugas2 {
         // } else {
         //     System.out.println("Tabungan anda tidak cukup untuk menikah, silakan kerja dan kumpulkan uang hingga cukup");
         // }
+
+        nikah.close();
     }
 
 }
